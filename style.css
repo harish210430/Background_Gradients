@@ -1,0 +1,20 @@
+body {
+  font-size: 16px;
+  line-height: 1.5;
+}
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: 28px;
+}
+p {
+    font-size: 24px;
+    text-align: center;
+}
+.bg {
+    height: 300px;
+    /* background-color: aqua; */
+    /* Transparent Background Color RGBa and HSLa values. */
+    /* a is the transparency (Alpha) value: a is b/w 0 to 1; */
+   background: rgba(0, 255, 255, 0.2);
+}

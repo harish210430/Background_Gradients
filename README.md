@@ -1,0 +1,2 @@
+# Background plays a significant role when designing a website, it help us to differentiate b/w Section, group, content etc.
+# The Transparent BG color RGBa & HSLa, Where a is alpha value for the transparency (0 to 1).
